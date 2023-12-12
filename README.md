@@ -1,2 +1,4 @@
 # Crowdfunding_ETL
-project 2 (pistachios) Ruby &amp; Pascale
+project 2 (pistachios) Ruby & Pascale.
+
+
